@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=쓰고싶은말&fontSize=90)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=CodeLian&fontAlign=30&fontSize=30&desc=A%20developer%20who%20learns%20and%20grows.&descAlign=60&descAlignY=50&theme=cobalt)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ambient_gradient)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_codelian)](https://solved.ac/dev_codelian)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psmoon7304&show_icons=true&theme=ambient_gradient)
 <!--
 **psmoon7304/psmoon7304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
