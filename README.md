@@ -35,16 +35,35 @@
 </p>
 
 
+### 🌱 Learning
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"> <!-- Spring -->
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <!-- MongoDB -->
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"> <!-- Redis -->
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <!-- Postgres -->
+  <br>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <!-- AWS -->
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"> <!-- Jira -->
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"> <!-- Jenkins -->
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> <!-- Kubernetes -->
+</p>
+
+
 ### 📫 Contact
 ---
 <p align="center">
   <a href="mailto:dev_codelian@naver.com">
     <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <!-- 네이버 메일 -->
   </a>
+  <a href="https://github.com/psmoon7304">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <!-- 깃허브 연결 -->
+  </a>
 </p>
 
 
-### 🌱 History
+### 📈 History
 ---
   <ul>
     <li>2025.07 ~ - Samsung SW AI Academy For Youth (SSAFY) 14기</li>
@@ -53,7 +72,7 @@
   </ul>
 
   
-### 🪧 Certifications
+### 🏷 Certifications
 ---
   <ul>
     <li>2025.09 - SQLD</li>
