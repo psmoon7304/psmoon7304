@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&text=CodeLian&fontAlign=30&fontSize=30&desc=A%20developer%20who%20learns%20and%20grows.&descAlign=60&descAlignY=50&theme=cobalt" alt="reversal"/>
 </p>
 
+
 ### 📌 Tech Stack
 ---
 <p align="center">
@@ -16,6 +17,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> <!-- MySQL-->
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"> <!-- SQLLite-->
 </p>
+
 
 ### 🛠 Tools
 ---
@@ -32,6 +34,7 @@
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> <!-- Eclipse  -->
 </p>
 
+
 ### 📫 Contact
 ---
 <p align="center">
@@ -39,6 +42,23 @@
     <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <!-- 네이버 메일 -->
   </a>
 </p>
+
+
+### 🌱 History
+---
+  <ul>
+    <li>2025.07 ~ - Samsung SW AI Academy For Youth (SSAFY) 14기</li>
+    <li>2021.08 ~ 2022.09 - 코딩학원 강사</li>
+    <li>2017.12 ~ 2019.12 - 코딩학원 강사</li>
+  </ul>
+
+  
+### 🪧 Certifications
+---
+  <ul>
+    <li>2025.09 - SQLD</li>
+    <li>2021.10 - 정보처리기능사</li>
+  </ul>
 
 
 ### 📊 Statistics
@@ -50,9 +70,10 @@
 </p>
 
 
-### 📖 BaekJoon
+### 📖 BaekJoon Algorithm
 ---
 <p align="center">
+  <img src="https://img.shields.io/badge/Problem Solving Languages-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://topsolved.mayonedev.com/api/boj?handle=dev_codelian&row=25&base_color=default">
 </p>
 
