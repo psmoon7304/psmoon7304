@@ -54,30 +54,43 @@
 ### 📫 Contact
 ---
 <p align="center">
-  <a href="mailto:dev_codelian@naver.com">
+  <a href="mailto:dev_codelian@naver.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <!-- 네이버 메일 -->
   </a>
-  <a href="https://github.com/psmoon7304">
+  <a href="https://github.com/psmoon7304" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <!-- 깃허브 연결 -->
   </a>
 </p>
 
 
-### 📈 History
+### 📈 History & 🏷 Certifications
 ---
-  <ul>
-    <li>2025.07 ~ - Samsung SW AI Academy For Youth (SSAFY) 14기</li>
-    <li>2021.08 ~ 2022.09 - 코딩학원 강사</li>
-    <li>2017.12 ~ 2019.12 - 코딩학원 강사</li>
-  </ul>
 
-  
-### 🏷 Certifications
----
-  <ul>
-    <li>2025.09 - SQLD</li>
-    <li>2021.10 - 정보처리기능사</li>
-  </ul>
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td valign="top" style="padding-right: 20px;">
+
+
+| 시작 | 종료 | 내용 |
+|:---|:---|:---|
+| 2025.07 | | Samsung SW AI Academy For Youth (SSAFY) 14기 |
+| 2021.08 | 2022.09 | 코딩학원 강사 |
+| 2017.12 | 2019.12 | 코딩학원 강사 |
+
+</td>
+<td valign="top" style="padding-left: 20px;">
+
+| 취득일 | 종류 | 기타 |
+|:---|:---|:---|
+| 2025.09 | SQLD | ✅취득 |
+|  | 정보처리기사 | 🚧취득중 - 필기 합 |
+| 2021.10 | 정보처리기능사 | ✅취득 |
+
+</td>
+    </tr>
+  </table>
+</div>
 
 
 ### 📊 Statistics
@@ -103,18 +116,3 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="http://mazandi.herokuapp.com/api?handle=dev_codelian&theme=cold"/>
 </p>
-
-<!--
-**psmoon7304/psmoon7304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
