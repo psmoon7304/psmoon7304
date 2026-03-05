@@ -99,8 +99,9 @@
 
 | 시작 | 종료 | 내용 |
 |:---|:---|:---|
-| 2025.07 | | Samsung SW AI Academy For Youth (SSAFY) 14기 |
+| 2025.07 | | Samsung SW AI Academy For Youth (SSAFY) 14기 Java 전공반 |
 | 2021.08 | 2022.09 | 코딩학원 강사 |
+| 2018.02 | 2024.02 | 컴퓨터공학부 졸업 |
 | 2017.12 | 2019.12 | 코딩학원 강사 |
 
 </td>
